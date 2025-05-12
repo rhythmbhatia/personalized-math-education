@@ -1,0 +1,12 @@
+
+---
+
+### ✅ 2. `requirements.txt`
+
+tensorflow
+transformers
+sympy
+scikit-learn
+pandas
+mediapipe
+streamlit
