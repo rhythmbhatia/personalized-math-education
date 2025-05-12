@@ -1,4 +1,4 @@
-# Personalized Math Education Toolkit 🧠📐
+# Personalized Math Education Toolkit 
 
 This project uses Google’s open-source models (TensorFlow, BERT, T5) and math libraries like SymPy to provide a prototype for adaptive, personalized learning in math.
 
